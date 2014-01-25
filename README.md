@@ -1,6 +1,6 @@
 # JSPlot
 
-## JSPlot is a simple javascript plotting library, useful for quick debugging or visualization of signals. I wrote this as a personal tool, and it has primarily only been tested with Chrome.
+#### JSPlot is a simple javascript plotting library, useful for quick debugging or visualization of signals.
 
 To use JSPlot, simply initialize the Grapher object onto a canvas element.
 Plot data retrospectively using graphData, or on the fly with graphStream.
@@ -22,3 +22,5 @@ Plot data retrospectively using graphData, or on the fly with graphStream.
     </canvas>
     </body>
     </html>
+
+###### Note that I wrote this as a personal tool, and it has primarily only been tested with Chrome.
